@@ -1,0 +1,604 @@
+[
+    {
+        "question": "What is power of attorney?",
+        "answer": "Power of attorney is a legal document that allows someone (the principal) to appoint another person (the agent) to make decisions on their behalf. Types include general, limited, durable, and medical power of attorney."
+    },
+    {
+        "question": "What are Miranda rights?",
+        "answer": "Miranda rights are constitutional protections that must be read to criminal suspects in custody before interrogation. They include the right to remain silent, that statements can be used against you, right to an attorney, and right to appointed counsel if indigent."
+    },
+    {
+        "question": "How does bankruptcy work?",
+        "answer": "Bankruptcy is a legal process for individuals or businesses unable to repay debts. Chapter 7 involves liquidation of assets, Chapter 13 involves a repayment plan, and Chapter 11 is typically for business reorganization. Each has different eligibility requirements and consequences."
+    },
+    {
+        "question": "What is a will?",
+        "answer": "A will is a legal document that specifies how a person's assets should be distributed after death. It can name guardians for minor children, specify funeral arrangements, and designate an executor to manage the estate."
+    },
+    {
+        "question": "What is a trust?",
+        "answer": "A trust is a legal arrangement where one party (the trustee) holds property on behalf of another (the beneficiary). Trusts can manage assets, reduce taxes, and avoid probate."
+    },
+    {
+        "question": "What is probate?",
+        "answer": "Probate is the court-supervised process of validating a will, settling debts, and distributing assets after someone dies."
+    },
+    {
+        "question": "What is a contract?",
+        "answer": "A contract is a legally enforceable agreement between two or more parties involving an offer, acceptance, consideration, and mutual intent to be bound."
+    },
+    {
+        "question": "What is breach of contract?",
+        "answer": "Breach of contract occurs when one party fails to perform their obligations under a legally binding agreement without lawful excuse."
+    },
+    {
+        "question": "What is negligence?",
+        "answer": "Negligence is a failure to exercise reasonable care, resulting in harm or injury to another person. It is a common basis for civil lawsuits."
+    },
+    {
+        "question": "What is defamation?",
+        "answer": "Defamation is a false statement presented as fact that harms someone's reputation. Written defamation is libel, while spoken defamation is slander."
+    },
+    {
+        "question": "What is double jeopardy?",
+        "answer": "Double jeopardy is a constitutional protection under the Fifth Amendment that prevents someone from being tried twice for the same crime after acquittal or conviction."
+    },
+    {
+        "question": "What is habeas corpus?",
+        "answer": "Habeas corpus is a legal writ requiring a person under arrest to be brought before a judge to determine if their detention is lawful."
+    },
+    {
+        "question": "What is bail?",
+        "answer": "Bail is money or property posted as security to ensure a defendant returns for court proceedings after being released from custody."
+    },
+    {
+        "question": "What is parole?",
+        "answer": "Parole is the conditional release of a prisoner before completing their full sentence, based on good behavior and compliance with conditions."
+    },
+    {
+        "question": "What is probation?",
+        "answer": "Probation is a court-ordered period of supervision instead of serving time in prison, with conditions such as reporting to an officer and avoiding criminal activity."
+    },
+    {
+        "question": "What is civil law?",
+        "answer": "Civil law deals with disputes between individuals or organizations, often involving compensation, contracts, or property."
+    },
+    {
+        "question": "What is criminal law?",
+        "answer": "Criminal law addresses actions considered harmful to society, prosecuted by the state, and punishable by fines, imprisonment, or other penalties."
+    },
+    {
+        "question": "What is common law?",
+        "answer": "Common law is a legal system based on judicial precedents and court rulings rather than only written statutes."
+    },
+    {
+        "question": "What is statutory law?",
+        "answer": "Statutory law is written law created by legislative bodies such as Congress or state legislatures."
+    },
+    {
+        "question": "What is case law?",
+        "answer": "Case law is law developed through court decisions, serving as precedents for future cases."
+    },
+    {
+        "question": "What is international law?",
+        "answer": "International law governs relations between sovereign states and international organizations, covering treaties, trade, and human rights."
+    },
+    {
+        "question": "What is martial law?",
+        "answer": "Martial law is the imposition of direct military control over civilian functions during emergencies, such as war or natural disasters."
+    },
+    {
+        "question": "What is administrative law?",
+        "answer": "Administrative law regulates the activities of government agencies, including rulemaking, enforcement, and adjudication."
+    },
+    {
+        "question": "What is intellectual property?",
+        "answer": "Intellectual property (IP) refers to creations of the mind, such as inventions, designs, and artistic works, protected by laws like patents, trademarks, and copyrights."
+    },
+    {
+        "question": "What is a patent?",
+        "answer": "A patent is a government-granted exclusive right to an inventor, allowing them to prevent others from making, using, or selling their invention for a limited period."
+    },
+    {
+        "question": "What is a trademark?",
+        "answer": "A trademark is a symbol, word, or phrase legally registered to represent a company or product, protecting it from unauthorized use."
+    },
+    {
+        "question": "What is copyright?",
+        "answer": "Copyright is the legal protection of original creative works, such as books, music, and software, giving the creator exclusive rights to use and distribute them."
+    },
+    {
+        "question": "What is fair use?",
+        "answer": "Fair use is a legal doctrine allowing limited use of copyrighted material without permission, for purposes like criticism, news, teaching, or research."
+    },
+    {
+        "question": "What is self-defense?",
+        "answer": "Self-defense is the legal right to use reasonable force to protect oneself from imminent harm or unlawful attack."
+    },
+    {
+        "question": "What is plea bargaining?",
+        "answer": "Plea bargaining is an agreement where a defendant pleads guilty to a lesser charge in exchange for reduced penalties, avoiding a full trial."
+    },
+    {
+        "question": "What is burden of proof?",
+        "answer": "Burden of proof is the obligation to prove allegations in a legal case. In criminal cases, it rests on the prosecution, requiring proof beyond a reasonable doubt."
+    },
+    {
+        "question": "What is presumption of innocence?",
+        "answer": "Presumption of innocence means a person is considered innocent until proven guilty in a court of law."
+    },
+    {
+        "question": "What is perjury?",
+        "answer": "Perjury is the criminal act of lying under oath in a judicial proceeding."
+    },
+    {
+        "question": "What is contempt of court?",
+        "answer": "Contempt of court is behavior that disrespects or obstructs the court’s authority, including disobeying orders or disrupting proceedings."
+    },
+    {
+        "question": "What is extradition?",
+        "answer": "Extradition is the formal process of one country surrendering a person accused or convicted of a crime to another country’s jurisdiction."
+    },
+    {
+        "question": "What is asylum?",
+        "answer": "Asylum is protection granted by a country to foreign nationals fleeing persecution based on race, religion, nationality, political opinion, or social group."
+    },
+    {
+        "question": "What is immigration law?",
+        "answer": "Immigration law governs who may enter, reside, and become citizens of a country, including visas, deportation, and naturalization processes."
+    },
+    {
+        "question": "What is human rights law?",
+        "answer": "Human rights law protects fundamental rights and freedoms that all people are entitled to, such as life, liberty, and equality."
+    },
+    {
+        "question": "What is family law?",
+        "answer": "Family law deals with matters such as marriage, divorce, child custody, adoption, and domestic partnerships."
+    },
+    {
+        "question": "What is divorce?",
+        "answer": "Divorce is the legal termination of a marriage by a court or authorized authority."
+    },
+    {
+        "question": "What is child custody?",
+        "answer": "Child custody determines the legal and practical relationship between a parent and a child, including living arrangements and decision-making authority."
+    },
+    {
+        "question": "What is alimony?",
+        "answer": "Alimony, or spousal support, is court-ordered financial support paid by one spouse to another after divorce or separation."
+    },
+    {
+        "question": "What is adoption?",
+        "answer": "Adoption is the legal process by which an adult becomes the legal parent of a child who is not biologically theirs."
+    },
+    {
+        "question": "What is guardianship?",
+        "answer": "Guardianship is a legal relationship where a person is appointed to make decisions for another, typically a minor or incapacitated adult."
+    },
+    {
+        "question": "What is domestic violence?",
+        "answer": "Domestic violence is abusive behavior in a household, including physical, emotional, sexual, or economic abuse, often addressed by protective orders."
+    },
+    {
+        "question": "What is a restraining order?",
+        "answer": "A restraining order is a court order that restricts a person from contacting or approaching another person to prevent harassment or harm."
+    },
+    {
+        "question": "What is employment law?",
+        "answer": "Employment law regulates the relationship between employers and employees, covering wages, workplace safety, discrimination, and wrongful termination."
+    },
+    {
+        "question": "What is wrongful termination?",
+        "answer": "Wrongful termination is when an employee is fired in violation of employment contracts, discrimination laws, or labor regulations."
+    },
+    {
+        "question": "What is workplace discrimination?",
+        "answer": "Workplace discrimination occurs when an employee is treated unfairly based on race, gender, age, religion, disability, or other protected characteristics."
+    },
+    {
+        "question": "What is sexual harassment?",
+        "answer": "Sexual harassment is unwelcome conduct of a sexual nature in the workplace or educational setting, creating a hostile or intimidating environment."
+    },
+    {
+        "question": "What is labor union law?",
+        "answer": "Labor union law regulates collective bargaining, strikes, and the rights of workers to organize and negotiate with employers."
+    },
+    {
+        "question": "What is corporate law?",
+        "answer": "Corporate law governs the formation, management, and dissolution of corporations, including shareholder rights and mergers."
+    },
+    {
+        "question": "What is antitrust law?",
+        "answer": "Antitrust law prevents monopolies and promotes competition by regulating unfair business practices."
+    },
+    {
+        "question": "What is consumer protection law?",
+        "answer": "Consumer protection law safeguards buyers against unfair, deceptive, or fraudulent practices in the marketplace."
+    },
+    {
+        "question": "What is tax law?",
+        "answer": "Tax law governs the collection of taxes by the government, covering income tax, corporate tax, property tax, and more."
+    },
+    {
+        "question": "What is property law?",
+        "answer": "Property law regulates ownership and use of real and personal property, including buying, selling, and leasing."
+    },
+    {
+        "question": "What is real estate law?",
+        "answer": "Real estate law deals with land ownership, property transfers, zoning, and landlord-tenant relations."
+    },
+    {
+        "question": "What is landlord-tenant law?",
+        "answer": "Landlord-tenant law governs rental agreements, tenant rights, eviction procedures, and landlord responsibilities."
+    },
+    {
+        "question": "What is foreclosure?",
+        "answer": "Foreclosure is the legal process by which a lender takes ownership of a property when the borrower fails to make mortgage payments."
+    },
+    {
+        "question": "What is tort law?",
+        "answer": "Tort law provides remedies to individuals harmed by wrongful acts, such as negligence, defamation, or product liability."
+    },
+    {
+        "question": "What is product liability?",
+        "answer": "Product liability holds manufacturers and sellers responsible for defective or dangerous products that cause harm."
+    },
+    {
+        "question": "What is medical malpractice?",
+        "answer": "Medical malpractice occurs when a healthcare provider's negligence causes injury or harm to a patient."
+    },
+    {
+        "question": "What is strict liability?",
+        "answer": "Strict liability holds a party responsible for damages regardless of fault or intent, often applied in cases involving dangerous activities or defective products."
+    },
+    {
+        "question": "What is environmental law?",
+        "answer": "Environmental law regulates human interaction with the environment, including pollution control, natural resource protection, and climate policy."
+    },
+    {
+        "question": "What is constitutional law?",
+        "answer": "Constitutional law interprets and applies a nation’s constitution, defining powers of government and individual rights."
+    },
+    {
+        "question": "What is separation of powers?",
+        "answer": "Separation of powers is the division of government responsibilities into legislative, executive, and judicial branches to prevent abuse of power."
+    },
+    {
+        "question": "What is judicial review?",
+        "answer": "Judicial review is the power of courts to examine laws or government actions and declare them unconstitutional if they violate the constitution."
+    },
+    {
+        "question": "What is federalism?",
+        "answer": "Federalism is a system of government where power is divided between a central authority and regional states."
+    },
+    {
+        "question": "What is due process?",
+        "answer": "Due process is the constitutional guarantee that legal proceedings will be fair and individuals will have notice and an opportunity to be heard."
+    },
+    {
+        "question": "What is equal protection?",
+        "answer": "Equal protection means that laws must apply equally to all individuals, preventing discrimination by the government."
+    },
+    {
+        "question": "What is the First Amendment?",
+        "answer": "The First Amendment protects freedoms of speech, press, religion, assembly, and petition in the United States."
+    },
+    {
+        "question": "What is the Fourth Amendment?",
+        "answer": "The Fourth Amendment protects against unreasonable searches and seizures, requiring warrants based on probable cause."
+    },
+    {
+        "question": "What is the Fifth Amendment?",
+        "answer": "The Fifth Amendment provides protections including the right to remain silent, protection against double jeopardy, and due process of law."
+    },
+    {
+        "question": "What is the Sixth Amendment?",
+        "answer": "The Sixth Amendment guarantees the right to a speedy trial, an impartial jury, to confront witnesses, and to have legal counsel."
+    },
+    {
+        "question": "What is the Eighth Amendment?",
+        "answer": "The Eighth Amendment prohibits excessive bail, excessive fines, and cruel and unusual punishment."
+    },
+    {
+        "question": "What is the Supreme Court?",
+        "answer": "The Supreme Court is the highest judicial authority in the United States, with the power to interpret the Constitution and review lower court decisions."
+    },
+    {
+        "question": "What is an appeal?",
+        "answer": "An appeal is a request to a higher court to review and possibly overturn a lower court's decision."
+    },
+    {
+        "question": "What is jurisdiction?",
+        "answer": "Jurisdiction is the legal authority of a court to hear and decide a case, based on subject matter, geography, or parties involved."
+    },
+    {
+        "question": "What is venue?",
+        "answer": "Venue refers to the specific geographic location where a legal case is tried."
+    },
+    {
+        "question": "What is arbitration?",
+        "answer": "Arbitration is a private dispute resolution process where an arbitrator makes a binding decision outside of court."
+    },
+    {
+        "question": "What is mediation?",
+        "answer": "Mediation is a voluntary process where a neutral third party helps disputing parties reach a mutually acceptable agreement outside of court."
+    },
+    {
+        "question": "What is a contract?",
+        "answer": "A contract is a legally enforceable agreement between two or more parties formed with free consent, lawful consideration, and lawful object."
+    },
+    {
+        "question": "What is an FIR?",
+        "answer": "An FIR is the First Information Report registered by police when a cognizable offense is reported, initiating the criminal investigation process."
+    },
+    {
+        "question": "What is bail?",
+        "answer": "Bail is the temporary release of an arrested person, guaranteed by a bond or conditions, allowing them to remain free during trial."
+    },
+    {
+        "question": "What is arrest?",
+        "answer": "Arrest is the act of taking a person into legal custody on suspicion of committing an offense."
+    },
+    {
+        "question": "What is IPC?",
+        "answer": "IPC stands for the Indian Penal Code, the primary criminal code specifying offenses and punishments in India."
+    },
+    {
+        "question": "What is CrPC?",
+        "answer": "CrPC is the Code of Criminal Procedure, which provides the rules for investigation, arrest, bail, trial, and criminal proceedings."
+    },
+    {
+        "question": "What is the Evidence Act?",
+        "answer": "The Indian Evidence Act governs admissibility, relevance, and evaluation of evidence in courts."
+    },
+    {
+        "question": "What is defamation?",
+        "answer": "Defamation is the act of damaging someone's reputation through false spoken or written statements."
+    },
+    {
+        "question": "What is trespass?",
+        "answer": "Trespass is unauthorized entry into someone's land or property without legal justification."
+    },
+    {
+        "question": "What is theft?",
+        "answer": "Theft is dishonestly taking movable property belonging to another, without their consent."
+    },
+    {
+        "question": "What is cheating?",
+        "answer": "Cheating involves deceiving a person to deliver property or act in a way they would not do otherwise."
+    },
+    {
+        "question": "What is assault?",
+        "answer": "Assault is an act that causes another person to apprehend immediate physical harm."
+    },
+    {
+        "question": "What is a warrant?",
+        "answer": "A warrant is a legal document issued by a court authorizing police to arrest, search, or seize."
+    },
+    {
+        "question": "What is a charge sheet?",
+        "answer": "A charge sheet is a final police report submitted under CrPC detailing evidence and charges against the accused."
+    },
+    {
+        "question": "What is a trial?",
+        "answer": "A trial is a formal judicial process where a court examines evidence and determines guilt or liability."
+    },
+    {
+        "question": "What is a civil case?",
+        "answer": "A civil case involves disputes between individuals or entities regarding rights, property, or contracts."
+    },
+    {
+        "question": "What is a criminal case?",
+        "answer": "A criminal case involves prosecution of an individual by the state for committing an offense."
+    },
+    {
+        "question": "What is a lawsuit?",
+        "answer": "A lawsuit is a legal action initiated by a party seeking enforcement of rights or compensation."
+    },
+    {
+        "question": "What is an injunction?",
+        "answer": "An injunction is a court order requiring someone to do or not do a specific act."
+    },
+    {
+        "question": "What is a summons?",
+        "answer": "A summons is a legal notice requiring a person to appear before a court."
+    },
+    {
+        "question": "What is a legal notice?",
+        "answer": "A legal notice is a formal communication informing a party about a grievance and demanding action."
+    },
+    {
+        "question": "What is cross-examination?",
+        "answer": "Cross-examination is questioning of a witness by the opposing party to test truthfulness."
+    },
+    {
+        "question": "What is a jurisdiction?",
+        "answer": "Jurisdiction refers to the authority of a court to hear and decide cases within a specific area or subject."
+    },
+    {
+        "question": "What is a trademark?",
+        "answer": "A trademark is a legally protected symbol, design, or expression identifying goods or services."
+    },
+    {
+        "question": "What is copyright?",
+        "answer": "Copyright is the legal right granted to creators for their original literary, artistic, or musical works."
+    },
+    {
+        "question": "What is a patent?",
+        "answer": "A patent grants inventors exclusive rights to make, use, or sell their invention for a limited time."
+    },
+    {
+        "question": "What is domestic violence?",
+        "answer": "Domestic violence involves physical, emotional, or economic abuse within a household relationship."
+    },
+    {
+        "question": "What is harassment?",
+        "answer": "Harassment is unwanted behavior causing physical or mental distress to another person."
+    },
+    {
+        "question": "What is a will?",
+        "answer": "A will is a legal document stating how a person's property should be distributed after death."
+    },
+    {
+        "question": "What is inheritance?",
+        "answer": "Inheritance refers to receiving property or assets from a deceased person's estate."
+    },
+    {
+        "question": "What is a deed?",
+        "answer": "A deed is a written legal document transferring ownership of property."
+    },
+    {
+        "question": "What is a mortgage?",
+        "answer": "A mortgage is a loan secured by property, where the lender can claim the property if repayment fails."
+    },
+    {
+        "question": "What is loan default?",
+        "answer": "Loan default occurs when a borrower fails to make required loan payments."
+    },
+    {
+        "question": "What is a consumer complaint?",
+        "answer": "A consumer complaint is a grievance filed for defective goods or deficient services."
+    },
+    {
+        "question": "What is RTI?",
+        "answer": "RTI, or Right to Information, allows citizens to request information from public authorities."
+    },
+    {
+        "question": "What is cybercrime?",
+        "answer": "Cybercrime includes offenses committed using computers, networks, or digital devices."
+    },
+    {
+        "question": "What is fraud?",
+        "answer": "Fraud is intentional deception made for unlawful gain or to cause loss to another."
+    },
+    {
+        "question": "What is money laundering?",
+        "answer": "Money laundering is disguising illegal money as legitimate funds through transactions."
+    },
+    {
+        "question": "What is extortion?",
+        "answer": "Extortion is obtaining property or money through threats, force, or coercion."
+    },
+    {
+        "question": "What is a plea?",
+        "answer": "A plea is the formal response of an accused person stating guilt or innocence."
+    },
+    {
+        "question": "What is a settlement?",
+        "answer": "A settlement is an agreement between parties to resolve a dispute without trial."
+    },
+    {
+        "question": "What is mediation?",
+        "answer": "Mediation is a dispute resolution process where a neutral third party helps parties reach agreement."
+    },
+    {
+        "question": "What is arbitration?",
+        "answer": "Arbitration is a private legal process where disputes are decided by an arbitrator instead of a court."
+    },
+    {
+        "question": "What is a legal guardian?",
+        "answer": "A legal guardian is a person legally appointed to care for a minor or incapacitated individual."
+    },
+    {
+        "question": "What is adoption?",
+        "answer": "Adoption is the legal process of taking responsibility for a child as one's own."
+    },
+    {
+        "question": "What is bigamy?",
+        "answer": "Bigamy is marrying another person while already being legally married to someone else."
+    },
+    {
+        "question": "What is dowry?",
+        "answer": "Dowry refers to property or gifts given at marriage, prohibited under Indian law."
+    },
+    {
+        "question": "What is cruelty in marriage?",
+        "answer": "Cruelty includes mental or physical harm caused by one spouse to another."
+    },
+    {
+        "question": "What is divorce?",
+        "answer": "Divorce legally dissolves a marriage through a court decree."
+    },
+    {
+        "question": "What is alimony?",
+        "answer": "Alimony is financial support paid by one spouse to the other after separation or divorce."
+    },
+    {
+        "question": "What is child custody?",
+        "answer": "Child custody is the legal right to take care of a minor child after separation or divorce."
+    },
+    {
+        "question": "What is kidnapping?",
+        "answer": "Kidnapping is forcibly taking or detaining a person against their will."
+    },
+    {
+        "question": "What is murder?",
+        "answer": "Murder is intentional killing of a person with premeditation."
+    },
+    {
+        "question": "What is culpable homicide?",
+        "answer": "Culpable homicide is causing someone's death with intent or knowledge, but not amounting to murder."
+    },
+    {
+        "question": "What is a bailable offense?",
+        "answer": "A bailable offense allows the accused to secure bail as a matter of right."
+    },
+    {
+        "question": "What is a non-bailable offense?",
+        "answer": "A non-bailable offense requires court discretion to grant bail."
+    },
+    {
+        "question": "What is an appeal?",
+        "answer": "An appeal is a request to a higher court to review a lower court’s decision."
+    },
+    {
+        "question": "What is a review petition?",
+        "answer": "A review petition asks the same court to reconsider its judgment due to an error."
+    },
+    {
+        "question": "What is a PIL?",
+        "answer": "A Public Interest Litigation allows any person to approach court for matters affecting public welfare."
+    },
+    {
+        "question": "What is contempt of court?",
+        "answer": "Contempt of court is disobeying or disrespecting court orders or authority."
+    },
+    {
+        "question": "What is a human rights violation?",
+        "answer": "Human rights violation occurs when basic rights such as life, liberty, or dignity are infringed."
+    },
+    {
+        "question": "What is a police remand?",
+        "answer": "Police remand allows police to keep an accused in custody for investigation."
+    },
+    {
+        "question": "What is judicial custody?",
+        "answer": "Judicial custody places the accused in jail under court supervision during trial."
+    },
+    {
+        "question": "What is a stay order?",
+        "answer": "A stay order temporarily halts legal proceedings or execution of an order."
+    },
+    {
+        "question": "What is the right to equality?",
+        "answer": "The right to equality ensures equal treatment before the law without discrimination."
+    },
+    {
+        "question": "What is the right to life?",
+        "answer": "The right to life protects every individual's right to live with dignity and safety."
+    },
+    {
+        "question": "What is the right to privacy?",
+        "answer": "The right to privacy protects individuals from unauthorized interference in personal matters."
+    },
+    {
+        "question": "What is a trust?",
+        "answer": "A trust is a legal arrangement where one party manages property for another's benefit."
+    },
+    {
+        "question": "What is probate?",
+        "answer": "Probate is the court process validating a will and distributing the deceased person's estate."
+    }
+
+]
+    

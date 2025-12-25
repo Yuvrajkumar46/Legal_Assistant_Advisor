@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Assistant Chat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="chat-header">
+            <h1>Legal Assistant</h1>
+            <p class="disclaimer">This is an AI assistant for informational purposes only. Not a substitute for professional legal advice.</p>
+        </div>
+        
+        <div class="chat-container">
+            <div id="chatMessages" class="chat-messages">
+                <div class="message assistant-message">
+                    <div class="message-content">
+                        Hello! I'm your legal information assistant. I can help answer general legal questions, but please remember that this is not a substitute for professional legal advice. How can I help you today?
+                    </div>
+                </div>
+            </div>
+            
+            <div class="input-container">
+                <textarea 
+                    id="userInput" 
+                    class="user-input" 
+                    placeholder="Type your legal question here..."
+                    rows="1"></textarea>
+                <button id="sendButton" class="send-button">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
